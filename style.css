@@ -1,0 +1,81 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+img{width: 250px;}
+
+#logo img {
+  display: block;
+  margin: auto;
+  width: 50%;}
+ #logo {text-align: center}
+
+#header{background-color: #F6DDCC}
+
+.container{border: solid;
+			border-color: tomato;}
+#contact h2{font-size: 20px;
+			margin-top:15px}
+#contact {font-size: 15px}
+
+#content-row{margin: 10px;}
+
+.bullet ul{list-style-image:url(electric-mayhem-4.png);
+			margin: 5px}
+
+a:link {
+  text-decoration: none;
+  color:tomato;
+}
+
+a:visited {
+  text-decoration: none;
+  color:#8C1500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}	
+
+h1{text-align: center;
+	color:tomato;
+	font-family: "Bebas Neue", serif;
+	  font-weight: 400;
+	  font-style: normal;
+	  font-size:100px;}
+
+#header{text-align: left;
+		font-family: "Libre Baskerville", serif;
+		  font-weight: 400;}
+h2{color:tomato;
+	font-family: "Bebas Neue", serif;
+	  font-weight: 400;
+	  font-style: normal;
+	  font-size:25px;
+	 letter-spacing: 2px;}
+
+h3{font-weight: 700;
+	font-size: 20px}
+
+body{font-family: "Libre Baskerville", serif;
+		  font-weight: 500;}
+
+#education h2, #experience h2{color:tomato;
+	font-family: "Bebas Neue", serif;
+	  font-weight: 400;
+	  font-style: normal;
+	  font-size:30px;}
+
+.times{font-style: italic;}
+
+h2::first-letter {font-size: 40px;}
+
+.carousel-caption {background-color: rgba(199, 0, 57, .6); }
+
+#references{margin:10px}
+
+footer{text-align: center;
+	background-color:#F6DDCC;
+	color:#ffff;}
